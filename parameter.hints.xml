@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Eloquent.select(columns)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
