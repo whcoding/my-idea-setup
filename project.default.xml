@@ -1,0 +1,80 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+        <execution>
+          <interpreter composer="composer" />
+        </execution>
+      </component>
+      <component name="PhpDockerContainerSettings">
+        <list>
+          <map>
+            <entry key="f80433c2-740b-46ea-a853-c1677610177c">
+              <value>
+                <DockerContainerSettings>
+                  <option name="version" value="1" />
+                  <option name="volumeBindings">
+                    <list>
+                      <DockerVolumeBindingImpl>
+                        <option name="containerPath" value="/opt/project" />
+                      </DockerVolumeBindingImpl>
+                    </list>
+                  </option>
+                </DockerContainerSettings>
+              </value>
+            </entry>
+          </map>
+        </list>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="wenhao" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>质量工具PHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>PhpCSFixerValidationInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+      </component>
+      <component name="PsalmProjectConfiguration">
+        <option name="selectedConfigurationId" value="局部" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
