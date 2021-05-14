@@ -1,12 +1,8 @@
 <keymap version="1" name="Sublime Text (macOS)复制" parent="Sublime Text (Mac OS X)">
-  <action id="$Copy" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="CopyAbsolutePath" />
-  <action id="CopyContentRootPath">
-    <keyboard-shortcut first-keystroke="shift meta c" />
-  </action>
   <action id="CopyPaths" />
   <action id="CopyReferencePopup">
     <keyboard-shortcut first-keystroke="shift meta c" />
