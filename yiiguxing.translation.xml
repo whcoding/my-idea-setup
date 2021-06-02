@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="473" />
     <histories>
+      <item value="commodity" />
+      <item value="goods" />
+      <item value="商品" />
+      <item value="shan" />
+      <item value="operator" />
       <item value="total Num" />
       <item value="库存总数量" />
       <item value="总数量" />
@@ -10,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="17" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
