@@ -1,6 +1,6 @@
 <keymap version="1" name="Sublime Text (macOS)复制" parent="Sublime Text (Mac OS X)">
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
   <action id="CopyAbsolutePath" />
   <action id="CopyPaths" />
@@ -11,11 +11,14 @@
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
