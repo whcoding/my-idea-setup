@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="473" />
     <histories>
+      <item value="goods info" />
       <item value="符合有效期的" />
       <item value="commodity" />
       <item value="goods" />
@@ -17,12 +18,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622628103633" />
+    <option name="lastTrimTime" value="1623829256151" />
   </component>
 </application>
