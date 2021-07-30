@@ -1,5 +1,4 @@
 <keymap version="1" name="Sublime Text (macOS)复制" parent="Sublime Text (Mac OS X)">
-  <action id="$Copy" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
@@ -8,12 +7,9 @@
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="CopyFileName">
-    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
   <action id="CopyPaths" />
-  <action id="CopyReferencePopup">
-    <keyboard-shortcut first-keystroke="shift meta c" />
-  </action>
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
@@ -38,6 +34,6 @@
     <keyboard-shortcut first-keystroke="meta insert" />
   </action>
   <action id="编辑器Copy">
-    <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
 </keymap>
