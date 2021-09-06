@@ -26,8 +26,14 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="PreviousTemplateVariable" />
   <action id="SearchEverywhere.PrevTab" />
   <action id="Terminal.CopySelectedText">
