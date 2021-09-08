@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="192.168.1.180" id="62173e98-9e8c-42c4-acdc-576753638634" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+      <sshConfig authType="PASSWORD" host="81.70.253.117" id="daf1c363-53f6-49cc-9182-b5c920ade7e8" port="2222" nameFormat="DESCRIPTIVE" username="wenhao" />
     </configs>
   </component>
 </application>
