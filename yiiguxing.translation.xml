@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="461" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="参数" />
       <item value="date" />
       <item value="时间" />
       <item value="date&#10;" />
@@ -27,14 +28,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="52" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631598261062" />
+    <option name="lastTrimTime" value="1632810030589" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
