@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="340e11f8-5730-431c-90d7-da176a9cd8c8" name="嘉华铭本地" url="http://192.168.1.180">
-        <fileTransfer rootFolder="/home/ubuntu" accessType="SFTP" host="192.168.1.180" port="22" sshConfigId="62173e98-9e8c-42c4-acdc-576753638634" sshConfig="ubuntu@192.168.1.180:22 key" keyPair="true">
+        <fileTransfer rootFolder="/home/ubuntu/inventory-system" accessType="SFTP" host="192.168.1.180" port="22" sshConfigId="62173e98-9e8c-42c4-acdc-576753638634" sshConfig="ubuntu@192.168.1.180:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
