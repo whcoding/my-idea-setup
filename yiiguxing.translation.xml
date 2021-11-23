@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="461" />
-    <option name="newTranslationDialogY" value="457" />
+    <option name="newTranslationDialogX" value="1781" />
+    <option name="newTranslationDialogY" value="331" />
     <histories>
       <item value="参数" />
       <item value="date" />
@@ -36,12 +36,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1632810030589" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
   </component>
 </application>
