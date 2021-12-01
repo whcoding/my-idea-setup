@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="flip" />
+      <item value="array_flip" />
       <item value="创建账号" />
       <item value="获取物流信息" />
       <item value="order id" />
@@ -31,7 +33,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
+        <entry key="CHINESE" value="57" />
         <entry key="ENGLISH" value="56" />
         <entry key="PORTUGUESE" value="1" />
       </map>
