@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="461" />
-    <option name="newTranslationDialogY" value="457" />
+    <option name="newTranslationDialogX" value="1781" />
+    <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="flip" />
+      <item value="array_flip" />
+      <item value="创建账号" />
+      <item value="获取物流信息" />
+      <item value="order id" />
       <item value="参数" />
       <item value="date" />
       <item value="时间" />
@@ -28,20 +33,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="56" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632810030589" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
+    <option name="lastTrimTime" value="1638254434611" />
   </component>
 </application>
