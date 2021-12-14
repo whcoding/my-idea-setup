@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="unsign Data" />
       <item value="flip" />
       <item value="array_flip" />
       <item value="创建账号" />
@@ -34,12 +35,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638254434611" />
+    <option name="lastTrimTime" value="1639469048501" />
   </component>
 </application>
