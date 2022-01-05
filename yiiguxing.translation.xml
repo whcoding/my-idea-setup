@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="private function getRand(proArr)" />
       <item value="unsign Data" />
       <item value="flip" />
       <item value="array_flip" />
@@ -41,6 +42,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639469048501" />
+    <option name="lastTrimTime" value="1641187252246" />
   </component>
 </application>
