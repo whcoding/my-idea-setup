@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="长度" />
       <item value="private function getRand(proArr)" />
       <item value="unsign Data" />
       <item value="flip" />
@@ -35,13 +36,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="65" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641187252246" />
+    <option name="lastTrimTime" value="1642477691269" />
   </component>
 </application>
