@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="cache" />
       <item value="长度" />
       <item value="private function getRand(proArr)" />
       <item value="unsign Data" />
@@ -36,7 +37,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="65" />
         <entry key="PORTUGUESE" value="1" />
       </map>
