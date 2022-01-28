@@ -4,6 +4,26 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="Please consider using more strict '===' here (hidden types casting will not be applied anymore). " />
+      <item value="PAUSE_FLAG_0' should be declared with access modifier. " />
+      <item value="[EA] Child instructions can be extracted here (clearer intention, lower complexity numbers). " />
+      <item value="Safely use '!==' here" />
+      <item value=" Safely use '!==' here" />
+      <item value="] Safely use '!==' here" />
+      <item value=" Null pointer exception may occur here" />
+      <item value="火腿" />
+      <item value="name" />
+      <item value="cookie" />
+      <item value="奇趣饼" />
+      <item value="qi'qu'bing" />
+      <item value="qi'qu'b" />
+      <item value="qi" />
+      <item value="qiau" />
+      <item value="coo" />
+      <item value="鸟蛤" />
+      <item value="gid" />
+      <item value="mobile" />
+      <item value="get Order List By User" />
       <item value="handle" />
       <item value="处理" />
       <item value="chuli" />
@@ -34,20 +54,17 @@
       <item value="商品" />
       <item value="shan" />
       <item value="operator" />
-      <item value="total Num" />
-      <item value="库存总数量" />
-      <item value="总数量" />
-      <item value="Message Bag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="116" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642477691269" />
+    <option name="lastTrimTime" value="1643356052713" />
   </component>
 </application>
