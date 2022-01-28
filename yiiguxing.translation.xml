@@ -4,9 +4,10 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="[EA] Child instructions can be extracted here (clearer intention, lower complexity numbers). " />
+      <item value="'(int) $v['state']' can be used instead (reduces cognitive load, up to 6x times faster in PHP 5.x). " />
       <item value="Please consider using more strict '===' here (hidden types casting will not be applied anymore). " />
       <item value="PAUSE_FLAG_0' should be declared with access modifier. " />
-      <item value="[EA] Child instructions can be extracted here (clearer intention, lower complexity numbers). " />
       <item value="Safely use '!==' here" />
       <item value=" Safely use '!==' here" />
       <item value="] Safely use '!==' here" />
@@ -53,12 +54,11 @@
       <item value="goods" />
       <item value="商品" />
       <item value="shan" />
-      <item value="operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="118" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
