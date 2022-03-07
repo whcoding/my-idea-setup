@@ -4,67 +4,67 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="架" />
+      <item value="shelf" />
+      <item value="v" />
+      <item value="上架" />
+      <item value="上" />
+      <item value="上线" />
+      <item value="是否上架" />
+      <item value="缺少" />
+      <item value="缺" />
+      <item value="缺货" />
+      <item value="que" />
+      <item value="是否有货" />
+      <item value="是否有活" />
+      <item value="是否" />
+      <item value="是否断货" />
+      <item value="是否断货哦" />
+      <item value="shif" />
+      <item value="authorize" />
+      <item value="授权" />
+      <item value="链接" />
+      <item value="suggest" />
+      <item value="建议" />
+      <item value="采购价" />
+      <item value="commerce price" />
+      <item value="commerce_price" />
+      <item value="电商价" />
+      <item value="电商jia" />
+      <item value="电商" />
+      <item value="dian'sh" />
+      <item value="市场价" />
+      <item value="市场j'e" />
+      <item value="shi'c" />
+      <item value="结算" />
+      <item value="ji" />
+      <item value="spec" />
+      <item value="spce" />
+      <item value="goods spec name" />
+      <item value="规格" />
+      <item value="商品规格" />
+      <item value="shang'p" />
+      <item value="品牌" />
+      <item value="pi'g" />
+      <item value="分类" />
+      <item value="一级" />
+      <item value="库" />
+      <item value="仓库" />
+      <item value="chang'k" />
       <item value="金额" />
       <item value="[EA] Child instructions can be extracted here (clearer intention, lower complexity numbers). " />
       <item value="'(int) $v['state']' can be used instead (reduces cognitive load, up to 6x times faster in PHP 5.x). " />
-      <item value="Please consider using more strict '===' here (hidden types casting will not be applied anymore). " />
-      <item value="PAUSE_FLAG_0' should be declared with access modifier. " />
-      <item value="Safely use '!==' here" />
-      <item value=" Safely use '!==' here" />
-      <item value="] Safely use '!==' here" />
-      <item value=" Null pointer exception may occur here" />
-      <item value="火腿" />
-      <item value="name" />
-      <item value="cookie" />
-      <item value="奇趣饼" />
-      <item value="qi'qu'bing" />
-      <item value="qi'qu'b" />
-      <item value="qi" />
-      <item value="qiau" />
-      <item value="coo" />
-      <item value="鸟蛤" />
-      <item value="gid" />
-      <item value="mobile" />
-      <item value="get Order List By User" />
-      <item value="handle" />
-      <item value="处理" />
-      <item value="chuli" />
-      <item value="cache" />
-      <item value="长度" />
-      <item value="private function getRand(proArr)" />
-      <item value="unsign Data" />
-      <item value="flip" />
-      <item value="array_flip" />
-      <item value="创建账号" />
-      <item value="获取物流信息" />
-      <item value="order id" />
-      <item value="参数" />
-      <item value="date" />
-      <item value="时间" />
-      <item value="date&#10;" />
-      <item value="字段" />
-      <item value="z" />
-      <item value="zi'a" />
-      <item value="field" />
-      <item value="秒杀" />
-      <item value="seckill" />
-      <item value="inventory suppliers" />
-      <item value="goods info" />
-      <item value="符合有效期的" />
-      <item value="commodity" />
-      <item value="goods" />
-      <item value="商品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="295" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645510103668" />
+    <option name="lastTrimTime" value="1646643750053" />
   </component>
 </application>
