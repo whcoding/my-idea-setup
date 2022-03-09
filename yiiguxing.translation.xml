@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="take_effect_time" />
+      <item value="take_effect_" />
+      <item value="take_effect" />
+      <item value="take effect" />
+      <item value="生效" />
+      <item value="efficient" />
+      <item value="有效" />
+      <item value="you'x" />
+      <item value="effect" />
       <item value="原因" />
       <item value="拒绝" />
       <item value="Bark&#10;Bite" />
@@ -45,20 +54,11 @@
       <item value="建议" />
       <item value="采购价" />
       <item value="commerce price" />
-      <item value="commerce_price" />
-      <item value="电商价" />
-      <item value="电商jia" />
-      <item value="电商" />
-      <item value="dian'sh" />
-      <item value="市场价" />
-      <item value="市场j'e" />
-      <item value="shi'c" />
-      <item value="结算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="342" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
