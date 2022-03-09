@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="原因" />
+      <item value="拒绝" />
       <item value="Bark&#10;Bite" />
       <item value="Bark，&#10;Bite" />
       <item value="Bark，Bite" />
@@ -19,8 +21,6 @@
       <item value="pring" />
       <item value="pri" />
       <item value="price" />
-      <item value="原因" />
-      <item value="拒绝" />
       <item value="架" />
       <item value="shelf" />
       <item value="v" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="317" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
