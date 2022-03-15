@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1781" />
     <option name="newTranslationDialogY" value="331" />
     <histories>
+      <item value="alarm" />
+      <item value="报警" />
       <item value="私有" />
       <item value="支付" />
       <item value="结算" />
@@ -52,13 +54,11 @@
       <item value="是否断货" />
       <item value="是否断货哦" />
       <item value="shif" />
-      <item value="authorize" />
-      <item value="授权" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="402" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
