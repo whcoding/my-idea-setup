@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogX" value="1935" />
-    <option name="newTranslationDialogY" value="285" />
+    <option name="newTranslationDialogX" value="960" />
+    <option name="newTranslationDialogY" value="636" />
     <histories>
+      <item value="name" />
+      <item value="下架" />
       <item value="进入" />
       <item value="入库" />
       <item value="入库数据" />
@@ -53,19 +55,25 @@
       <item value="生效" />
       <item value="efficient" />
       <item value="有效" />
-      <item value="you'x" />
-      <item value="effect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="509" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="ESPERANTO" value="9" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1647309148350" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
   </component>
 </application>
