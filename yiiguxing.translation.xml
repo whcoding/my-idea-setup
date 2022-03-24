@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="960" />
     <option name="newTranslationDialogY" value="636" />
     <histories>
+      <item value="充值" />
       <item value="name" />
       <item value="下架" />
       <item value="进入" />
@@ -54,15 +55,14 @@
       <item value="take effect" />
       <item value="生效" />
       <item value="efficient" />
-      <item value="有效" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="ENGLISH" value="516" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="9" />
+        <entry key="ESPERANTO" value="16" />
       </map>
     </option>
   </component>
