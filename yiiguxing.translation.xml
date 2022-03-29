@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2119" />
     <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="地址" />
       <item value="充值" />
       <item value="name" />
       <item value="下架" />
@@ -54,20 +55,19 @@
       <item value="take_effect" />
       <item value="take effect" />
       <item value="生效" />
-      <item value="efficient" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="ENGLISH" value="519" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="16" />
+        <entry key="ESPERANTO" value="19" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647309148350" />
+    <option name="lastTrimTime" value="1648521332347" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
