@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2119" />
     <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="limit" />
+      <item value="限制" />
+      <item value="info" />
+      <item value="根" />
+      <item value="根据" />
+      <item value="under" />
       <item value="支付宝" />
       <item value="绑定" />
       <item value="hour" />
@@ -49,20 +55,14 @@
       <item value="thr" />
       <item value="related" />
       <item value="rela" />
-      <item value="re" />
-      <item value="alarm" />
-      <item value="报警" />
-      <item value="私有" />
-      <item value="支付" />
-      <item value="结算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="566" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="588" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="63" />
+        <entry key="ESPERANTO" value="82" />
       </map>
     </option>
   </component>
