@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="207" />
+    <option name="newTranslationDialogHeight" value="255" />
     <option name="newTranslationDialogX" value="2119" />
     <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="hour" />
+      <item value="时" />
+      <item value="shi" />
+      <item value="xiaos" />
       <item value="创建订单" />
       <item value="凭证" />
       <item value="certificate" />
@@ -51,18 +55,14 @@
       <item value="结算" />
       <item value="shelf" />
       <item value="on the shelf" />
-      <item value="上架" />
-      <item value="online" />
-      <item value="上线" />
-      <item value="take_effect_time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="556" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="45" />
+        <entry key="ESPERANTO" value="53" />
       </map>
     </option>
   </component>
