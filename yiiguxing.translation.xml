@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2119" />
     <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="支付宝" />
+      <item value="绑定" />
       <item value="hour" />
       <item value="时" />
       <item value="shi" />
@@ -53,16 +55,14 @@
       <item value="私有" />
       <item value="支付" />
       <item value="结算" />
-      <item value="shelf" />
-      <item value="on the shelf" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="ENGLISH" value="566" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="53" />
+        <entry key="ESPERANTO" value="63" />
       </map>
     </option>
   </component>
