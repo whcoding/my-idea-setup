@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2119" />
     <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="创建订单" />
       <item value="凭证" />
       <item value="certificate" />
       <item value="屏障" />
@@ -54,15 +55,14 @@
       <item value="online" />
       <item value="上线" />
       <item value="take_effect_time" />
-      <item value="take_effect_" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="ENGLISH" value="547" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="38" />
+        <entry key="ESPERANTO" value="45" />
       </map>
     </option>
   </component>
