@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2119" />
     <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="周" />
+      <item value="zhou" />
       <item value="limit" />
       <item value="限制" />
       <item value="info" />
@@ -53,16 +55,14 @@
       <item value="through" />
       <item value="thro" />
       <item value="thr" />
-      <item value="related" />
-      <item value="rela" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="ENGLISH" value="593" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="82" />
+        <entry key="ESPERANTO" value="87" />
       </map>
     </option>
   </component>
