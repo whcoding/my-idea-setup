@@ -2,9 +2,9 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="255" />
-    <option name="newTranslationDialogX" value="2119" />
-    <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="手动" />
+      <item value="s" />
       <item value="every Minute" />
       <item value="everyMinute" />
       <item value="ĉiun Minuton" />
@@ -53,16 +53,14 @@
       <item value="OrderShipped" />
       <item value="MAIL MAILER" />
       <item value="MAIL_MAILER" />
-      <item value="transport" />
-      <item value="对比" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="625" />
+        <entry key="ENGLISH" value="634" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="121" />
+        <entry key="ESPERANTO" value="130" />
       </map>
     </option>
   </component>
