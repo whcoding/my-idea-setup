@@ -1,10 +1,36 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogX" value="960" />
-    <option name="newTranslationDialogY" value="636" />
+    <option name="newTranslationDialogHeight" value="255" />
+    <option name="newTranslationDialogX" value="2119" />
+    <option name="newTranslationDialogY" value="312" />
     <histories>
+      <item value="every Minute" />
+      <item value="everyMinute" />
+      <item value="ĉiun Minuton" />
+      <item value="长度" />
+      <item value="人" />
+      <item value="r" />
+      <item value="chang" />
+      <item value="周" />
+      <item value="zhou" />
+      <item value="limit" />
+      <item value="限制" />
+      <item value="info" />
+      <item value="根" />
+      <item value="根据" />
+      <item value="under" />
+      <item value="支付宝" />
+      <item value="绑定" />
+      <item value="hour" />
+      <item value="时" />
+      <item value="shi" />
+      <item value="xiaos" />
+      <item value="创建订单" />
+      <item value="凭证" />
+      <item value="certificate" />
+      <item value="屏障" />
+      <item value="地址" />
       <item value="充值" />
       <item value="name" />
       <item value="下架" />
@@ -29,45 +55,19 @@
       <item value="MAIL_MAILER" />
       <item value="transport" />
       <item value="对比" />
-      <item value="对波" />
-      <item value="结算价格" />
-      <item value="结算几个" />
-      <item value="睡" />
-      <item value="through" />
-      <item value="thro" />
-      <item value="thr" />
-      <item value="related" />
-      <item value="rela" />
-      <item value="re" />
-      <item value="alarm" />
-      <item value="报警" />
-      <item value="私有" />
-      <item value="支付" />
-      <item value="结算" />
-      <item value="shelf" />
-      <item value="on the shelf" />
-      <item value="上架" />
-      <item value="online" />
-      <item value="上线" />
-      <item value="take_effect_time" />
-      <item value="take_effect_" />
-      <item value="take_effect" />
-      <item value="take effect" />
-      <item value="生效" />
-      <item value="efficient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="625" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="16" />
+        <entry key="ESPERANTO" value="121" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647309148350" />
+    <option name="lastTrimTime" value="1648521332347" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
