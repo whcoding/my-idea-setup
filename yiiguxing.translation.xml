@@ -2,7 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="255" />
+    <option name="newTranslationDialogX" value="2254" />
+    <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="update exchange order cache" />
+      <item value="update exchange order cacha" />
+      <item value="update exchange order_cacha" />
+      <item value="update exchange_order_cacha" />
+      <item value="update_exchange_order_cacha" />
+      <item value="兑换" />
       <item value="手动" />
       <item value="s" />
       <item value="every Minute" />
@@ -47,25 +55,19 @@
       <item value="流水" />
       <item value="明细" />
       <item value="账单" />
-      <item value="zhang'd" />
-      <item value="reconciliation" />
-      <item value="Order Shipped" />
-      <item value="OrderShipped" />
-      <item value="MAIL MAILER" />
-      <item value="MAIL_MAILER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="638" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="130" />
+        <entry key="ESPERANTO" value="135" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648521332347" />
+    <option name="lastTrimTime" value="1649309904534" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
