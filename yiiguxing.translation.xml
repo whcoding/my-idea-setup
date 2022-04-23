@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="写" />
       <item value="lock Code " />
       <item value="lockCode " />
       <item value="字段" />
@@ -54,15 +55,14 @@
       <item value="进入" />
       <item value="入库" />
       <item value="入库数据" />
-      <item value="其他出库" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="ENGLISH" value="674" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="167" />
+        <entry key="ESPERANTO" value="171" />
       </map>
     </option>
   </component>
