@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d556a2f-9460-4f7b-b260-f5ba451af93c" name="嘉华铭正式">
+        <fileTransfer rootFolder="/home/www" accessType="SFTP" host="59.110.125.158" port="22" sshConfigId="384605da-1bee-40ee-8380-945bb03f516f" sshConfig="www@59.110.125.158:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8a8e6f5d-9655-4ce9-aec2-ee8911a15f8d" name="自己">
+        <fileTransfer rootFolder="/home/wenhao/lucky" accessType="SFTP" host="81.70.253.117" port="2222" sshConfigId="daf1c363-53f6-49cc-9182-b5c920ade7e8" sshConfig="wenhao@81.70.253.117:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
