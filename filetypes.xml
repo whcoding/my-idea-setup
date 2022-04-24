@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".env" type=".env file" />
       <mapping pattern="targetAhkFam" type="AUTO_DETECTED" />
       <mapping pattern="public20210824_html_form" type="AUTO_DETECTED" />
       <mapping pattern="sourceMNoKLO" type="AUTO_DETECTED" />
