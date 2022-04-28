@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="其他" />
       <item value="过滤" />
       <item value="gou" />
       <item value="退款" />
@@ -54,15 +55,14 @@
       <item value="屏障" />
       <item value="地址" />
       <item value="name" />
-      <item value="下架" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="706" />
+        <entry key="ENGLISH" value="713" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="203" />
+        <entry key="ESPERANTO" value="210" />
       </map>
     </option>
   </component>
