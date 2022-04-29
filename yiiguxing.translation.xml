@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="submit recharge" />
+      <item value="submit-recharge" />
       <item value="其他" />
       <item value="过滤" />
       <item value="gou" />
@@ -53,16 +55,14 @@
       <item value="凭证" />
       <item value="certificate" />
       <item value="屏障" />
-      <item value="地址" />
-      <item value="name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
+        <entry key="CHINESE" value="520" />
         <entry key="ENGLISH" value="713" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="210" />
+        <entry key="ESPERANTO" value="211" />
       </map>
     </option>
   </component>
