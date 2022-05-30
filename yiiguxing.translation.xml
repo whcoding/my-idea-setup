@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="create Supplier Code Account" />
       <item value="submit recharge" />
       <item value="submit-recharge" />
       <item value="其他" />
@@ -54,20 +55,19 @@
       <item value="创建订单" />
       <item value="凭证" />
       <item value="certificate" />
-      <item value="屏障" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="520" />
-        <entry key="ENGLISH" value="713" />
+        <entry key="ENGLISH" value="714" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="211" />
+        <entry key="ESPERANTO" value="212" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651050184830" />
+    <option name="lastTrimTime" value="1653896803535" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
