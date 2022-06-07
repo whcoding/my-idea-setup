@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="enckey" />
+      <item value="生成" />
+      <item value="生成mi" />
       <item value="参数" />
       <item value="Parse" />
       <item value="解析" />
@@ -52,17 +55,14 @@
       <item value="under" />
       <item value="支付宝" />
       <item value="绑定" />
-      <item value="hour" />
-      <item value="时" />
-      <item value="shi" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="ENGLISH" value="745" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="224" />
+        <entry key="ESPERANTO" value="241" />
       </map>
     </option>
   </component>
