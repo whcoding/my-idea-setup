@@ -2,17 +2,16 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="targetAhkFam" type="AUTO_DETECTED" />
-      <mapping pattern="public20210824_html_form" type="AUTO_DETECTED" />
-      <mapping pattern="sourceMNoKLO" type="AUTO_DETECTED" />
-      <mapping pattern="targetephKPd" type="AUTO_DETECTED" />
-      <mapping pattern="targetMCOkEi" type="AUTO_DETECTED" />
       <mapping pattern="SignatrueGuard" type="AUTO_DETECTED" />
-      <mapping pattern="sourceaPPoFM" type="AUTO_DETECTED" />
       <mapping pattern="targetiKBFfb" type="AUTO_DETECTED" />
+      <mapping pattern="public20210824_html_form" type="AUTO_DETECTED" />
+      <mapping pattern="sourceaPPoFM" type="AUTO_DETECTED" />
+      <mapping pattern="targetMCOkEi" type="AUTO_DETECTED" />
+      <mapping pattern="targetephKPd" type="AUTO_DETECTED" />
+      <mapping pattern="sourceMNoKLO" type="AUTO_DETECTED" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
