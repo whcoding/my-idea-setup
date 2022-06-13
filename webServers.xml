@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="8a8e6f5d-9655-4ce9-aec2-ee8911a15f8d" name="自己">
-        <fileTransfer rootFolder="/home/wenhao/lucky" accessType="SFTP" host="81.70.253.117" port="2222" sshConfigId="daf1c363-53f6-49cc-9182-b5c920ade7e8" sshConfig="wenhao@81.70.253.117:2222 password">
+        <fileTransfer rootFolder="/home/wenhao/lucky" accessType="SFTP" host="81.70.253.117" port="2222" sshConfigId="daf1c363-53f6-49cc-9182-b5c920ade7e8" sshConfig="wenhao@81.70.253.117:2222 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
