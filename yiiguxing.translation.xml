@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="格式" />
+      <item value="ges" />
+      <item value="form" />
+      <item value="fo" />
       <item value="面额" />
       <item value="面" />
       <item value="面值" />
@@ -51,18 +55,14 @@
       <item value="chang" />
       <item value="周" />
       <item value="zhou" />
-      <item value="limit" />
-      <item value="限制" />
-      <item value="info" />
-      <item value="根" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="ENGLISH" value="779" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="256" />
+        <entry key="ESPERANTO" value="275" />
       </map>
     </option>
   </component>
