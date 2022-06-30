@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Contact Info" />
       <item value="step" />
       <item value="步骤" />
       <item value="格式" />
@@ -54,7 +55,6 @@
       <item value="长度" />
       <item value="人" />
       <item value="r" />
-      <item value="chang" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655099261848" />
+    <option name="lastTrimTime" value="1656559374933" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
