@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="bankBuPrice = dao-&gt;getSumPrice(item-&gt;aid, 'confirm_price'); 消耗金额 settlementPrice = dao-&gt;getSumPrice(item-&gt;aid, 'settlement_price'); 已收金额 bad = dao-&gt;getSumPrice(item-&gt;aid, 'bad_debt_price'); 坏账 foreach (head as k =&gt; v) {" />
       <item value="短" />
       <item value="make" />
       <item value="step" />
@@ -54,7 +55,6 @@
       <item value="everyMinute" />
       <item value="ĉiun Minuton" />
       <item value="长度" />
-      <item value="人" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660878294429" />
+    <option name="lastTrimTime" value="1662456408969" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
