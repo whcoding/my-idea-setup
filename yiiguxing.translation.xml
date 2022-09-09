@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="339" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="alipay Card Cont" />
       <item value="consume" />
       <item value="inventory_wechat_consume_data" />
       <item value="bankBuPrice = dao-&gt;getSumPrice(item-&gt;aid, 'confirm_price'); 消耗金额 settlementPrice = dao-&gt;getSumPrice(item-&gt;aid, 'settlement_price'); 已收金额 bad = dao-&gt;getSumPrice(item-&gt;aid, 'bad_debt_price'); 坏账 foreach (head as k =&gt; v) {" />
@@ -55,15 +56,14 @@
       <item value="手动" />
       <item value="s" />
       <item value="every Minute" />
-      <item value="everyMinute" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="ENGLISH" value="801" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="ESPERANTO" value="299" />
+        <entry key="ESPERANTO" value="300" />
       </map>
     </option>
   </component>
