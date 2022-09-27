@@ -1,8 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="340e11f8-5730-431c-90d7-da176a9cd8c8" name="本地库存系统" url="http://192.168.1.180">
+        <fileTransfer rootFolder="/home/ubuntu/inventory-system" accessType="SFTP" host="192.168.1.180" port="22" sshConfigId="62173e98-9e8c-42c4-acdc-576753638634" sshConfig="ubuntu@192.168.1.180:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="8d556a2f-9460-4f7b-b260-f5ba451af93c" name="嘉华铭正式">
-        <fileTransfer rootFolder="/home/www" accessType="SFTP" host="59.110.125.158" port="22" sshConfigId="384605da-1bee-40ee-8380-945bb03f516f" sshConfig="www@59.110.125.158:22 agent" authAgent="true">
+        <fileTransfer rootFolder="/home/www/inventory-system" accessType="SFTP" host="59.110.125.158" port="22" sshConfigId="384605da-1bee-40ee-8380-945bb03f516f" sshConfig="www@59.110.125.158:22 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
