@@ -3,6 +3,7 @@
     <words>
       <w>fillable</w>
       <w>rpush</w>
+      <w>wlist</w>
     </words>
   </component>
 </application>
