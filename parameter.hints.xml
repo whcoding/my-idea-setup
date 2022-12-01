@@ -5,6 +5,6 @@
         <added pattern="\Eloquent.select(columns)" />
       </blacklist>
     </blacklists>
-    <option id="php.pass.by.reference" value="false" />
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
