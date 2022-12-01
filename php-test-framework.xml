@@ -4,6 +4,7 @@
       <tool tool_name="PHPUnit">
         <cache>
           <versions>
+            <info id="解释器-8678a45e-0088-480d-8321-0aad7b9154b6" version="9.5.20" />
             <info id="解释器-f80433c2-740b-46ea-a853-c1677610177c" version="9.5.4" />
           </versions>
         </cache>
