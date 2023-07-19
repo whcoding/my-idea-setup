@@ -79,6 +79,8 @@
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="8f8e6c2c-7165-48f9-b1b3-314ee2afb0d7" configuration_file_path="/Users/wenhao/local/code/ryg/phpunit.xml" custom_loader_path="/Users/wenhao/local/code/ryg/vendor/autoload.php" use_configuration_file="true" />
       <phpunit_by_interpreter interpreter_id="8f8e6c2c-7165-48f9-b1b3-314ee2afb0d7" configuration_file_path="/Users/wenhao/local/code/ryg/phpunit.xml" custom_loader_path="/Users/wenhao/local/code/ryg/vendor/autoload.php" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="8f8e6c2c-7165-48f9-b1b3-314ee2afb0d7" configuration_file_path="/Users/wenhao/local/code/ryg/phpunit.xml" custom_loader_path="/Users/wenhao/local/code/ryg/vendor/autoload.php" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="8f8e6c2c-7165-48f9-b1b3-314ee2afb0d7" configuration_file_path="/Users/wenhao/local/code/ryg/phpunit.xml" custom_loader_path="/Users/wenhao/local/code/ryg/vendor/autoload.php" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
