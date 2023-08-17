@@ -1,8 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="81.70.253.117" id="daf1c363-53f6-49cc-9182-b5c920ade7e8" keyPath="$USER_HOME$/.ssh/id_rsa" port="2222" nameFormat="DESCRIPTIVE" username="wenhao" useOpenSSHConfig="true" />
-      <sshConfig authType="OPEN_SSH" host="59.110.125.158" id="384605da-1bee-40ee-8380-945bb03f516f" port="22" nameFormat="DESCRIPTIVE" username="www" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</application>

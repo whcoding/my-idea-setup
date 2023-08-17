@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="52f03341-e860-4fc3-9c49-cb4f829da216" name="whcoding">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
