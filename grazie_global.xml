@@ -6,6 +6,15 @@
         <option value="Chinese" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="七猫" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
