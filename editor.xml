@@ -20,6 +20,8 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
