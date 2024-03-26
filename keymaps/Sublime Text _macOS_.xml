@@ -14,9 +14,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="meta minus" />
-  </action>
+  <action id="EditorDecreaseFontSize" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
